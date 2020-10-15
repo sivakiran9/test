@@ -1,3 +1,6 @@
-hi every one 
+<<<<<<< HEAD
+hi every one
+future2
 
-feature1
+qarelase
+
