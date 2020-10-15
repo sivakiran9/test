@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+
 hi every one
-future2
-
-qarelase
-
+feature1
+jfkjsks feature1
